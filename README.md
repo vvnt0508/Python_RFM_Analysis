@@ -20,4 +20,4 @@ Suggestion: Use the quintile method from statistics.
 - Analyze the current status of the company and provide recommendations to the Marketing team.
 - Suggest to the Marketing and Sales teams which of the three R, F, M metrics the Superstore retail model should focus on the most.
 
-### Based on my analysis of the data, here are my recommendations:
+### You can view my analysis and recommendations via the link above.
