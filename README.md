@@ -1,5 +1,5 @@
 ## Python_RFM_Analysis: Customer Segmentation
-### *Applying Python and the RFM model to analyze customer data, supporting market expansion planning and strategic product selection..*
+### *Applying Python and the RFM model to analyze customer data, supporting market expansion planning and strategic product selection.*
 
 #### You can view my analysis and recommendations on Google Colab using the link below:
 [Open the notebook on Google Colab](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
