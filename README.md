@@ -1,7 +1,7 @@
 ## RFM_Customer_Segmentation
 ### *Applies the RFM model to segment SuperStore's customer data, enabling targeted marketing strategies by classifying customers based on their purchasing behavior and engagement.*
-#### My Python Project on Google Colab
-You can view my Python code on Google Colab using the link below:
+
+#### You can view my Python code, my analysis and recommendations on Google Colab using the link below:
 [Open the notebook on Google Colab](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
 
 ### Overview:
@@ -19,5 +19,3 @@ Suggestion: Use the quintile method from statistics.
 - Visualize the number of segments with various data dimensions.
 - Analyze the current status of the company and provide recommendations to the Marketing team.
 - Suggest to the Marketing and Sales teams which of the three R, F, M metrics the Superstore retail model should focus on the most.
-
-### You can view my analysis and recommendations via the link above.
