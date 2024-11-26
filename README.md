@@ -1,7 +1,7 @@
 ## RFM_Customer_Segmentation
 ### *Applies the RFM model to segment SuperStore's customer data, enabling targeted marketing strategies by classifying customers based on their purchasing behavior and engagement.*
 #### My Python Project on Google Colab
-You can view and run my Python code on Google Colab using the link below:
+You can view my Python code on Google Colab using the link below:
 [Open the notebook on Google Colab](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
 
 ### Overview:
