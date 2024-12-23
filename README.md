@@ -27,5 +27,5 @@
 - Suggest to the Marketing and Sales teams which of the three R, F, M metrics the Superstore retail model should focus on the most.
 
 ### Data describe
-![Screenshot 2024-12-23 112840](https://raw.githubusercontent.com/vvnt0508/Python_RFM_Analysis/main/Screenshot%202024-12-23%20112840.png)
+![Screenshot 2024-12-23 112840](https://imgur.com/a/t0VVahx)
 
