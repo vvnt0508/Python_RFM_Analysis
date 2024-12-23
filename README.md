@@ -18,14 +18,7 @@
 - The Marketing Director has proposed using the RFM model, and the Data Analytics team has been tasked with building an automated Python-based solution due to the dataset's scale.
 
 ### II. Progress
-### Recommended approach:
-- Define and calculate the R, F, and M scores for each customer. Note: The reference date for calculating the R score is 31/12/2017.
-- Develop a scoring system with ratings from 1 to 5. Use the quintile method from statistics.
-- Based on the classification table, group the customers accordingly.
-- Visualize the number of segments with various data dimensions.
-- Analyze the current status of the company and provide recommendations to the Marketing team.
-- Suggest to the Marketing and Sales teams which of the three R, F, M metrics the Superstore retail model should focus on the most.
-
 ### Data describe
 ![Screenshot 2024-12-23 112840](https://i.imgur.com/0Dw9LxD.png)
+
 
