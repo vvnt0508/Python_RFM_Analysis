@@ -4,9 +4,12 @@
 #### You can view my analysis and recommendations on Google Colab using the link below:
 [Open the notebook on Google Colab](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
 
+###I. Introduction
+- RFM method: RFM is a marketing analysis technique that stands for Recency, Frequency, and Monetary Value
+
 ### Overview:
 - SuperStore is a global retail company with a large customer base.
-- To celebrate Christmas and the New Year, the Marketing department wants to run marketing campaigns to thank customers for their continuous support and to identify potential customers who could become loyal ones.
+- The Marketing department wants to run marketing campaigns to thank customers for their continuous support and to identify potential customers who could become loyal ones.
 - However, the Marketing department has not yet segmented this year’s customers due to the large dataset, which cannot be processed manually as in previous years. Therefore, they have asked the Data Analytics department to assist in developing a customer segmentation solution to implement targeted marketing campaigns for each customer group.
 - The Marketing Director has proposed using the RFM (Recency, Frequency, Monetary) model. However, in the past, when the company was smaller, the team could handle this task using Excel. Given the current scale, with the vast amount of data, they now wish the Data department to build an automated Python-based segmentation process.
 
