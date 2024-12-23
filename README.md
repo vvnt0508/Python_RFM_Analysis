@@ -4,8 +4,13 @@
 #### You can view my analysis and recommendations on Google Colab using the link below:
 [Open the notebook on Google Colab](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
 
-###I. Introduction
-- RFM method: RFM is a marketing analysis technique that stands for Recency, Frequency, and Monetary Value
+### I. Introduction
+- RFM method is a marketing analysis tool used to segment customers based on their purchasing behavior. It helps businesses identify and understand their most valuable customers and tailor marketing strategies accordingly.
+  + Recency: Measures how recently a customer has made a purchase. Customers who bought recently are more likely to purchase again compared to those who haven’t bought in a while.
+  + Frequency: Measures how often a customer makes purchases within a specific time frame. Customers who buy frequently are considered more loyal.
+  + Monetary Value: Measures the total amount a customer has spent during their relationship with the business. High monetary values indicate high-value customers.
+  
+  
 
 ### Overview:
 - SuperStore is a global retail company with a large customer base.
