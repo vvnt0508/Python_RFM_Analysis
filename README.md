@@ -22,6 +22,6 @@
 ![Screenshot 2024-12-23 112840](https://i.imgur.com/0Dw9LxD.png)
 
 ### Data info
-!(https://i.imgur.com/lXZislV.png)
+![Screenshot 2025-01-01 082521](https://i.imgur.com/lXZislV.png)
 
 
