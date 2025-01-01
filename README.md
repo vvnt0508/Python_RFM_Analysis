@@ -39,8 +39,13 @@
 ![Rececny](https://i.imgur.com/SylQWyu.png)
 ![Frequency](https://i.imgur.com/BmzhGqJ.png)
 ![Moneytary](https://i.imgur.com/TyfvP0E.png)
-#### Treemap of Customer segment
+
+#### Treemap of Customer Segment
+![Customer](https://i.imgur.com/tyTtDIU.png)
+
 #### Treemap of Total Sales
+![totalsaletreemap](https://i.imgur.com/LhZtEv4.png)
+
 #### Bar plot of Total Profit by Segmentation
 #### Bar plot of Total Sales by Segmentation
 
