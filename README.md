@@ -35,21 +35,21 @@
 ![Screenshot 2025-01-01 085616](https://i.imgur.com/MQLFY0N.png)
 
 ### III. Visualization
-#### Histogram: Distribution of Recency, Frequency and Monetary
+- Histogram: Distribution of Recency, Frequency and Monetary
 ![Rececny](https://i.imgur.com/SylQWyu.png)
 ![Frequency](https://i.imgur.com/BmzhGqJ.png)
 ![Monetary](https://i.imgur.com/TyfvP0E.png)
 
-#### Treemap of Customer Segment
+- Treemap of Customer Segment
 ![Customer](https://i.imgur.com/tyTtDIU.png)
 
-#### Treemap of Total Sales
+- Treemap of Total Sales
 ![totalsaletreemap](https://i.imgur.com/LhZtEv4.png)
 
-#### Bar plot of Total Profit by Segmentation
+- Bar plot of Total Profit by Segmentation
 ![totalprofitbarplot](https://i.imgur.com/hfwCq6b.png)
 
-#### Bar plot of Total Sales by Segmentation
+- Bar plot of Total Sales by Segmentation
 ![totalsalesbarplot](https://i.imgur.com/gXCbvZe.png)
 
 
