@@ -52,7 +52,7 @@
 ### IV.Insights
 1. Among three index R, F, M that the company needs to pay attention to, (R) should be the immediate focus because the company has a total of 32.39% of customers in the At Risk (9.87%), Hibernating (16%), and About to Sleep (6.52%) categories, low purchase frequency indicates these segments are at high risk of churn, significantly impacting revenue.
 2. Loyal Customers (9.80%) are crucial but small, under 10% of the base. Potential Loyalists (9.50%) also make up a similar share but don't buy regularly. Promising (3.14%) and Need Attention (6.41%) groups have potential for higher frequency with the right strategies => index (F) should be the next focus, this needs improvement to ensure sustained growth.
-3. Most customers spend very little (under 50,000 USD).
+3. Most customers spend very little (under 50,000 USD). 
 4. Champions (19.20%) drive 62.85% of total sales, while Loyal (11.40%) and Potential Loyalists (2.53%) contribute a valuable share of revenue. The focus should be on boosting spending from low-value, high-frequency segments through targeted promotions or premium bundles to increase overall revenue.
 
 ### V.Recommendations for Marketing and Sales Team
