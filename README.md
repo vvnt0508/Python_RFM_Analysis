@@ -46,9 +46,6 @@
 - Treemap of Total Sales
 ![totalsaletreemap](https://i.imgur.com/LhZtEv4.png)
 
-- Bar plot of Total Profit by Segmentation
-![totalprofitbarplot](https://i.imgur.com/hfwCq6b.png)
-
 - Bar plot of Total Sales by Segmentation
 ![totalsalesbarplot](https://i.imgur.com/gXCbvZe.png)
 
