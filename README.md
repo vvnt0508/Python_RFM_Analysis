@@ -34,4 +34,7 @@
 #### RFM Score with Segmentation
 ![Screenshot 2025-01-01 085616](https://i.imgur.com/MQLFY0N.png)
 
+### III. Visualization
+
+
 
