@@ -35,6 +35,14 @@
 ![Screenshot 2025-01-01 085616](https://i.imgur.com/MQLFY0N.png)
 
 ### III. Visualization
+#### Histogram: Distribution of Recency, Frequency and Moneytary
+![Rececny](https://i.imgur.com/SylQWyu.png)
+![Frequency](https://i.imgur.com/BmzhGqJ.png)
+![Moneytary](https://i.imgur.com/TyfvP0E.png)
+#### Treemap of Customer segment
+#### Treemap of Total Sales
+#### Bar plot of Total Profit by Segmentation
+#### Bar plot of Total Sales by Segmentation
 
 
 
