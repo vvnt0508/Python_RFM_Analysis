@@ -17,11 +17,13 @@
 - They aim to thank loyal customers and identify potential ones who could become more engaged.
 - The Marketing Director has proposed using the RFM model, and the Data Analytics team has been tasked with building an automated Python-based solution due to the dataset's scale.
 
-### II. Progress
+### II. Progression
 ### Data describe
 ![Screenshot 2024-12-23 112840](https://i.imgur.com/0Dw9LxD.png)
 
 ### Data info
 ![Screenshot 2025-01-01 082521](https://i.imgur.com/lXZislV.png)
+- Since the focus is on analyzing customer segments, we need to remove data missing in the 'CustomerID' column. Additionally, to calculate available orders, we will retain only positive values in the 'UnitPrice' and 'Quantity' columns.
+- 
 
 
