@@ -2,7 +2,7 @@
 ### *Applying Python and the RFM model to analyze customer data, supporting market expansion planning and strategic product selection.*
 
 #### You can view my analysis and recommendations on Google Colab using the link below:
-[Open the notebook on Google Colab](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
+[RFM Analysis](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
 
 ### I. Introduction
 ### 1. RFM Analysis
@@ -47,7 +47,10 @@
 ![totalsaletreemap](https://i.imgur.com/LhZtEv4.png)
 
 #### Bar plot of Total Profit by Segmentation
+![totalprofitbarplot](https://i.imgur.com/hfwCq6b.png)
+
 #### Bar plot of Total Sales by Segmentation
+![totalsalesbarplot](https://i.imgur.com/gXCbvZe.png)
 
 
 
