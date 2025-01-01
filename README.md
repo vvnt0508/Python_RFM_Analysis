@@ -29,7 +29,7 @@
 
 - Since the focus is on analyzing customer segments, we need to remove data missing in the 'CustomerID' column. Additionally, to calculate available orders and using RFM method we will retain only positive values in the 'UnitPrice' and 'Quantity' columns.
 - Applying the RFM method: calculate the R, F, and M scores for each customer and then develop a scoring framework based on a 1-to-5 scale. Using the statistical method of quintile analysis is recommended for this purpose.
-- Combined with the segmentation table to distribute each customer with their status
+- Combine the segmentation table with the customer data to assign each customer their status
   
 #### RFM Score with Segmentation
 ![Screenshot 2025-01-01 085616](https://i.imgur.com/MQLFY0N.png)
