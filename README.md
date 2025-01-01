@@ -18,17 +18,20 @@
 - The Marketing Director has proposed using the RFM model, and the Data Analytics team has been tasked with building an automated Python-based solution due to the dataset's scale.
 
 ### II. Progression
-### Data describe
+#### Data describe
 ![Screenshot 2024-12-23 112840](https://i.imgur.com/0Dw9LxD.png)
 
-### Data info
+#### Data info
 ![Screenshot 2025-01-01 082521](https://i.imgur.com/lXZislV.png)
 
-### Segmentation table
+#### Segmentation table
 ![Screenshot 2025-01-01 085027](https://i.imgur.com/p8I8ohH.png)
 
 - Since the focus is on analyzing customer segments, we need to remove data missing in the 'CustomerID' column. Additionally, to calculate available orders and using RFM method we will retain only positive values in the 'UnitPrice' and 'Quantity' columns.
 - Applying the RFM method: calculate the R, F, and M scores for each customer and then develop a scoring framework based on a 1-to-5 scale. Using the statistical method of quintile analysis is recommended for this purpose.
-- Combined with the segmentation table to distribute each customer with their status 
+- Combined with the segmentation table to distribute each customer with their status
+  
+#### RFM Score with Segmentation
+![Screenshot 2025-01-01 085616](https://i.imgur.com/MQLFY0N.png)
 
 
