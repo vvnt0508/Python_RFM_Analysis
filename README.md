@@ -19,13 +19,13 @@
 
 ### II. Progression
 #### Data describe
-![Screenshot 2024-12-23 112840](https://i.imgur.com/0Dw9LxD.png)
+![datadescribe](https://i.imgur.com/0Dw9LxD.png)
 
 #### Data info
-![Screenshot 2025-01-01 082521](https://i.imgur.com/lXZislV.png)
+![datainfo](https://i.imgur.com/lXZislV.png)
 
 #### Segmentation table
-![Screenshot 2025-01-01 085027](https://i.imgur.com/p8I8ohH.png)
+![segmentable](https://i.imgur.com/p8I8ohH.png)
 
 - Since the focus is on analyzing customer segments, we need to remove data missing in the 'CustomerID' column. Additionally, to calculate available orders and using RFM method we will retain only positive values in the 'UnitPrice' and 'Quantity' columns.
 - Applying the RFM method: calculate the R, F, and M scores for each customer and then develop a scoring framework based on a 1-to-5 scale. Using the statistical method of quintile analysis is recommended for this purpose.
@@ -35,10 +35,10 @@
 ![Screenshot 2025-01-01 085616](https://i.imgur.com/MQLFY0N.png)
 
 ### III. Visualization
-#### Histogram: Distribution of Recency, Frequency and Moneytary
+#### Histogram: Distribution of Recency, Frequency and Monetary
 ![Rececny](https://i.imgur.com/SylQWyu.png)
 ![Frequency](https://i.imgur.com/BmzhGqJ.png)
-![Moneytary](https://i.imgur.com/TyfvP0E.png)
+![Monetary](https://i.imgur.com/TyfvP0E.png)
 
 #### Treemap of Customer Segment
 ![Customer](https://i.imgur.com/tyTtDIU.png)
