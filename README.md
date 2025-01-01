@@ -5,14 +5,14 @@
 [RFM Analysis](https://colab.research.google.com/drive/1nj2g1ERs0GbQwXVqR42E_NyIbSgyOqF1)
 
 ### I. Introduction
-### 1. RFM Analysis
+#### 1. RFM Analysis
 - RFM method is a marketing analysis tool used to segment customers based on their purchasing behavior. It helps businesses identify and understand their most valuable customers and tailor marketing strategies accordingly.
   + Recency: Measures how recently a customer has made a purchase.
   + Frequency: Measures how often a customer makes purchases within a specific time frame.
   + Monetary Value: Measures the total amount a customer has spent during their relationship with the business.
 - RFM analysis helps businesses identify high-value and at-risk customers, enabling them to prioritize retention efforts, launch targeted win-back campaigns, and improve decision-making and personalization through data-driven insights.
 
-### 2. Business questions
+#### 2. Business questions
 - The Marketing department seeks to segment this year’s large customer base to run targeted campaigns but can no longer process the data manually as in previous years.
 - They aim to thank loyal customers and identify potential ones who could become more engaged.
 - The Marketing Director has proposed using the RFM model, and the Data Analytics team has been tasked with building an automated Python-based solution due to the dataset's scale.
@@ -51,6 +51,15 @@
 
 - Bar plot of Total Sales by Segmentation
 ![totalsalesbarplot](https://i.imgur.com/gXCbvZe.png)
+
+### IV.Insights
+1. Among three index R, F, M that the company needs to pay attention to, (R) should be the immediate focus because the company has a total of 32.39% of customers in the At Risk (9.87%), Hibernating (16%), and About to Sleep (6.52%) categories, low purchase frequency indicates these segments are at high risk of churn, significantly impacting revenue.
+2. Loyal Customers (9.80%) are crucial but small, under 10% of the base. Potential Loyalists (9.50%) also make up a similar share but don't buy regularly. Promising (3.14%) and Need Attention (6.41%) groups have potential for higher frequency with the right strategies => index (F) should be the next focus, this needs improvement to ensure sustained growth.
+3. Most customers spend very little (under 50,000 USD).
+4. Champions (19.20%) drive 62.85% of total sales, while Loyal (11.40%) and Potential Loyalists (2.53%) contribute a valuable share of revenue. The focus should be on boosting spending from low-value, high-frequency segments through targeted promotions or premium bundles to increase overall revenue.
+
+### V.Recommendations for Marketing and Sales Team
+
 
 
 
