@@ -50,10 +50,12 @@
 ![totalsalesbarplot](https://i.imgur.com/gXCbvZe.png)
 
 ### IV.Insights
-1. Among three index R, F, M that the company needs to pay attention to, (R) should be the immediate focus because the company has a total of 32.39% of customers in the At Risk (9.87%), Hibernating (16%), and About to Sleep (6.52%) categories, low purchase frequency indicates these segments are at high risk of churn, significantly impacting revenue.
-2. Loyal Customers (9.80%) are crucial but small, under 10% of the base. Potential Loyalists (9.50%) also make up a similar share but don't buy regularly. Promising (3.14%) and Need Attention (6.41%) groups have potential for higher frequency with the right strategies => index (F) should be the next focus, this needs improvement to ensure sustained growth.
-3. Most customers spend very little (under 50,000 USD). 
+1. Among three index R, F, M that the company needs to pay attention to, (R) should be the immediate focus because the company has a total of 32.39% of customers in the At Risk (9.87%), Hibernating (16%), and About to Sleep (6.52%) categories. These groups indicate a high risk of churn, which can significantly impact revenue.
+2. Loyal (9.80%, contributing $1,015,513.33), Potential Loyalists (9.50%, contributing $225,247.60), Promising (3.14%, contributing $121,031.35), and Need Attention (6.41%, contributing $461,077.53). Increasing the frequency of purchases in these groups could drive sustained growth. => index (F) should be the next focus, this needs improvement to ensure sustained growth.
+3. Monetary (M) insights show most customers spend minimally (under $50,000 USD). However, Champions (19.20%) drive 62.85% of total sales ($5,600,439.80), far exceeding other segments. Loyal (11.40%, $1,015,513.33) and Potential Loyalists (2.53%, $225,247.60) also contribute significantly but remain secondary compared to Champions.
 4. Champions (19.20%) drive 62.85% of total sales, while Loyal (11.40%) and Potential Loyalists (2.53%) contribute a valuable share of revenue. The focus should be on boosting spending from low-value, high-frequency segments through targeted promotions or premium bundles to increase overall revenue.
+5. Hibernating customers, making up 16% of the base, generate just 3.20% of total sales ($285,314.97), highlighting their low engagement and monetary contribution.
+6. While smaller in customer proportion, segments like Cannot Lose Them (2.30%, $205,324.72) and At Risk (8.55%, $761,560.87) contribute a disproportionately high share of sales compared to other segments. These groups present a strong case for retention efforts.
 
 ### V.Recommendations for Marketing and Sales Team
 
